@@ -9,7 +9,7 @@ Ele foi implementado no MatLab versão *R2018a* * para a avaliação AV1 da disc
 
 ###### * Obs: Esses arquivos/implementação podem não funcionar de forma adequada/eficiente em versões diferentes da utilizada para o desenvolvimento. ######
 
-**🔗 Tecnologias utilizadas:**
+**🔗 Tecnologia utilizada:**
 - [MatLab R2018a](https://www.mathworks.com/products/new_products/release2018a.html)
 
 ------------
